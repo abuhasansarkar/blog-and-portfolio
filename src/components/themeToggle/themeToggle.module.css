@@ -1,0 +1,17 @@
+.themeTogle {
+  background: #000;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  position: relative;
+  cursor: pointer;
+  transition: ease .5s;
+}
+.theme {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #fff;
+}
